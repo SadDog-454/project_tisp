@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background: url(bg.jpg), round;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main {
+  background: white;
+  margin: 5% 10%;
+  border: solid #664015 2px;
+  padding: 20px;
+}
+
+nav {
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  font-size: 27px;
+}
